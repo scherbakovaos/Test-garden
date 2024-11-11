@@ -8,4 +8,6 @@ tsconfig.tsbuildinfo
 .quartz-cache
 private/
 .replit
+.idea
 replit.nix
+.DS_Store
